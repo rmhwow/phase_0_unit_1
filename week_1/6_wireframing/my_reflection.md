@@ -11,3 +11,7 @@
 * Which parts of the challenge did you find tedious?
 
 <!-- Add your reflection here. Remove the comment markers -->
+
+I learned the what design thinking was. I learned that design experience is all about thinking in the future, what will people want.  The Best example to date has been the Iphone.   I was pretty excited to learn about it because it seems like a way I would like to think.
+I really liked it.  I kind of which this lesson was before the solo challenge because I think this would have been a useful tool to use for our websites.  
+I had no idea what wireframing was, it was cool to learn that before people design websites they use a visual mockup. I used gillify to make my wireframing mock ups. 
