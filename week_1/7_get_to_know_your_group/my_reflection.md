@@ -4,7 +4,7 @@
 
 Here's the Email I sent out: Hey oh!
 
-So I'm starting the accountability group email.  My name's Morgan O'Leary, I'm currently in Washington DC (moving to Wisconsin again Saturday).  My favorite websites are youtube, yahoo, and elite daily.   My learning style is Kinesthetic and Read/Write. 
+So I'm starting the accountability group email.  My name's Morgan O'Leary, I'm currently in Washington DC (moving to Wisconsin again Saturday).  My favorite websites are youtube, yahoo, and elite daily.   My learning style is Kinesthetic and Read/Write. I'm definitely a very visual person, but also need to get my hands dirty in order to figure things out. 
 
 Here's my reflection file: https://github.com/rmhwow/phase_0_unit_1/blob/master/week_1/7_get_to_know_your_group/my_reflection.md 
 Here's the index site: http://rmhwow.github.io
@@ -22,5 +22,5 @@ And Here's How I'm feeling about DBC Currently.
 
 2. Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
 
-<!-- Insert your response here -->
+I think reading other reflections was helpful.  I'm excited to meet everyone and it's nice to know that everyone is feeling very similar things.  This week has just reaffirmed my excitement to really dive in.  I think it's going to be a great time!
 
