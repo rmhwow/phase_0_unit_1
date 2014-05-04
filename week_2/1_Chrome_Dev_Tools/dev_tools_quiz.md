@@ -7,21 +7,28 @@
   * Realtime editing of HTML and CSS 
   * Javascript Debugging
   * Performance Optimization 
-
+1.  The Elements tab supports realtime editing of HTML and CSS.  In this tab you can see the code and edit it live to make changes.
+ However, the changes you make in the Elements tab aren't overridden on the original work.  For that you need to save and you can review changes in the Sources tab. So the Sources tab saves the live editing permanently and the elements tab does the live editing.  
+ 2.  The sources tab again supports debugging because it allows you to edit in live time and edit and run specific sections. The profil tab also lets you pick what sort of javascript profile you're going to be using.  The console allows allows you test where you might be running into trouble and rewrite your code. 
+3. Performance optimization is bet supported by the network tab (you can see how long it takes for something to load, how it could be improved etc). 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
+The quick key for my mac is command, alt, i. 
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
-  * What is the current background color for the page?  (Surprisingly, it's not just black!)
+  * What is the current background color for the page?  (Surprisingly, it's not just black!)- It's #0b0ff11.
   * Tweak the background color to white.
   * Tweak the height of the side bar that contains the logo.  Shrink it down to 85px.
   * Roll over the navigation links.  When you hover over them, they dissapear.  Let's change the hover color to black instead.
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
   * Upload your own image to the web using an image hosting service.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
+Images will be added to the image folder. 
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
+As it is right now the text isn't set to a color there is just a text shadow of black. 
 
 * Go to www.ticketswizard.com and analyze the page.  
-  * What is the largest image on the website? 
-  * Explain how you would find out this information, and list the URL of offending image here and how big it is.
+  * What is the largest image on the website?  The facebook  like button is the largest by time. 
+  * Explain how you would find out this information, and list the URL of offending image here and how big it is. You would use the Network tab and sort the size then look to see what the largest image is. 
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+The lowest hanging fruit is telerik.web.ui.webresource.axd?_TSM_hidden etc and can be eliminated by 385 KB. 
