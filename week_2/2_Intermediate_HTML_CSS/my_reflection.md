@@ -1,8 +1,8 @@
 # U1.W2: Intermediate HTML and CSS Reflection
 
-* What do you think about web standards? Are they good or bad?
-* Does the standard structure make sense to you? Why or why not?
-* Do you like the new HTML5 elements, such as `<header>`, `footer`, and `nav`? Why or why not?
-* Why is reset.css necessary? 
-* What browsers have you used? Did you ever notice that sites looked different in different browsers? Do you think it's good or bad that they do?
-* Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+* What do you think about web standards? Are they good or bad? I think web standards are nice and make sense. I think it's something that probably just formed more naturally.  As development started becoming more necessary I'm sure people looked for a way to hav e things similar.  I think it's also great to break out of those standards if your code is more efficient, user-friendly, and appealing. 
+* Does the standard structure make sense to you? Why or why not?  It does make sense to me.  When you're met with a new webpage it makes sense that certain things like underline blue links, margin, and padding would already be constructed. It's also a great way to still center your content depending on the browser size. I also might think this is normal because I'm so used to seeing this on webpages that I use.  
+* Do you like the new HTML5 elements, such as `<header>`, `footer`, and `nav`? Why or why not? I like the new HTML 5 elements because they make organization simple and it's easier to read the code. You don't have to worry as much about keeping track of your divs and classes and ids when you can just label things as they are. 
+* Why is reset.css necessary? It takes your HTML and resets it to the basic html standards.  This cuts down on your website looking really different in different browsers. 
+* What browsers have you used? Did you ever notice that sites looked different in different browsers? Do you think it's good or bad that they do? I've used Firefox, Safari, and Google Chrome.  I guess the main time I've noticed a drastic change is not the browser type but the browser size.  I think it's okay that browsers look different (they are all made differently).  However, I do sympathize for the developer trying to tackle that problem!
+* Did you find any resources on your own that helped you better understand a topic? If so, please list it. No, the resources given were really great. 

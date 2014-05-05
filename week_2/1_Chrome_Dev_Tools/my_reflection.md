@@ -1,7 +1,8 @@
 # U1.W2: Chrome Dev Tools Challenge Reflection
 
-* Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
-* How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
-* Did you find Chrome Web Tools fun, helpful, or a pain to work with?
-* Did you have an "aha" moments or were any concepts solidified?
+* Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it? The DOM is the basis of your html code.  It's the framework essentially and then you can build off parts of the framework at a time using the DOM. Building the tree and being able to use it to change different parts was super helpful. It makes sense to me that you would want to be able to hide and emphasize certain sections while trying to work on them.  
+* How did using Chrome Web Tools to look at your site and a wordpress.com site compare?  On wordpress there are way more CSS specifics and Javascript notations. There are also a lot more sections and branches that can be viewed then on just my regular HTML code.  
+* Did you find Chrome Web Tools fun, helpful, or a pain to work with? I thought it was fun.  It's become a pretty big assest as I've worked through the other challenges.  It's fantastic to be able to see changes immediately and not have to upload and sync, resync etc. IT's a great way to visually experiment without worrying about messing with your code too much. 
+* Did you have an "aha" moments or were any concepts solidified? At first I was really confused why the tools weren't available and then I realized this was a GOOGLE CHROME tool. ( I know  I really should have caught on, but hey I'm human). Everything with the tools is very user friendly as well. 
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+No

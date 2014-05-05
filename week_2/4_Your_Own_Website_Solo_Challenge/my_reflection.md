@@ -1,11 +1,11 @@
 # U1.W2: Design, User Experience, and creating your website Reflection
 
-My Website url: <!-- Website URL here (remove comment) -->
+My Website url: rmhwow.github.io
 
 Discuss the following:
-* What did you learn about design and user experience? 
-* Do you like design and user experience? Was it fun working on your site, the plan, and/or the wireframe? (If you hated it, that's OK too)
-* What was your process? What worked and didn't work?
-* What would you like to add or change about the site next?
-* Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool?
+* What did you learn about design and user experience? I had no idea there was a profession that focused on the emotions of people using websites. I thought that was super interesting and made sense to figure out what people actually do want out of a page. 
+* Do you like design and user experience? Was it fun working on your site, the plan, and/or the wireframe? (If you hated it, that's OK too)  I did think it was fun. For me I need to work on sticking with my plans and/or gaging what is possible for me to do in my plans first. I tried to make it really different and didn't have a clear vision which then it just ended up looking like my blog. 
+* What was your process? What worked and didn't work? I'm really good about being adaptable.  If something isn't working how I thought it would, or I don't like the look, I'm pretty flexible and allow myself to change it to make it better.  That being said, I should also try to make sure I stick to my plan so I don't spend so much time setting things up when I could be coding it. I think also I didn't have a clear vision of what I wanted or what this site was going to be used for.  The more I coded and figured I would have content to fill my page, the more I realized, I really didn't have content relating to my other work.  Just the links.  Maybe this website is supposed to be more personal than just DBC, but I wasn't sure what the line was there. 
+* What would you like to add or change about the site next? I think I need to branch out. I'm new to all this and kind of assume there's a right or wrong in the end product and I'm starting to learn it's really more about experimenting and learning. I think I'm going to change the background to something happier, maybe posts some videos, and add more color. 
+* Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool? IT WAS GREAT TO USE THE DEV TOOLS.  That was in all caps on purpose. The tools were super helpful in seeing what was wrong with the code, or how would changing an aspect change the look of the page. 
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
