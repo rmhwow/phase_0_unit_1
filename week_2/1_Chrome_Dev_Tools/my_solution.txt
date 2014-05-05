@@ -1,0 +1,36 @@
+Release 2: Basic Git Commands
+
+Define the following commands and describe how they work/what they do.
+
+add- allows git to track a new file. 
+
+branch- a branch is a section of code.  This command allows you to see different sections and make edits. 
+
+checkout- The checkout allows you to move from one file to another. 
+
+clone- this allows you to make duplicates.  this is helpful so that way to you can work on a specific section without messing up all of your coding. 
+
+commit- saves changes made to your code
+
+fetch- git gathers any commits from the branch that don't exist in your current branch and stores them in the local repo without merging with the branch.  It doesn't integrate the commits just yet. 
+
+log- it's Git's journal of all the past commits a person as made. 
+
+merge- Merges two files, directories, or branches together. 
+
+pull- allows you to review new changes
+
+push- this command puts your work in a new place (github, remote repository etc). 
+
+reset- allows you to go back to before certain changes were made. 
+
+rm- this allows you to remove a file, branch, or directory. 
+
+status- shows you what things you've been working on, what's staged vs. saved etc. 
+
+Release 4: Git Workflow
+
+Push files to a remote repository
+Fetch changes
+Commit locally
+Release 5: Reflection

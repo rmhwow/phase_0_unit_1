@@ -21,7 +21,7 @@ The quick key for my mac is command, alt, i.
   * Roll over the navigation links.  When you hover over them, they dissapear.  Let's change the hover color to black instead.
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
   * Upload your own image to the web using an image hosting service.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
-Images will be added to the image folder. 
+Image was added to my image folder under "quiz.png"
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 As it is right now the text isn't set to a color there is just a text shadow of black. 
